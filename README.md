@@ -15,7 +15,7 @@ This folder contains the various datasets used in the project. The external fold
 
 The processed folder contains intermediate datasets I created in the course of the project:
 
-- fetzer_processed_data.csv: This file is simply the data from the paper by Fetzer et al processed for modelling.
+- fetzer_processed_data.csv: This file is simply a cleaned and labelled version of the data from the Fetzer study.
 
 - ward_atlas_data.csv: This file is a combination of postcodes.csv and ward-results.xlsx for the purpose of creating a vizualization and a dashboard on Tableau.
 
