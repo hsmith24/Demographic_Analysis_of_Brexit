@@ -8,9 +8,7 @@ This folder contains the various datasets used in the project. The external fold
 
 - fetzer_study_data.dta: This file contains data from [this study](https://ideas.repec.org/a/oup/ecpoli/v32y2017i92p601-650..html). This is the main dataset used for the analysis and modelling in this project. Each instance is a ward in the United Kingdom, and the features include demographic information such as age, income, and proportion of migrants in the population.
 
-- postcodes.csv: This file contains geographic information on wards in the United Kingdom. This is only for the purpose of vizualization.
-
-- ward-results.xlsx: This file contains the Brexit results for each ward in the United Kingdom.
+- ward-results.xlsx: This file contains the Brexit results for each ward in the United Kingdom. Along with geographical information from [data.gov.uk](data.gov.uk), this is used for the purpose of vizualization.
 
 
 The processed folder contains intermediate datasets I created in the course of the project:
