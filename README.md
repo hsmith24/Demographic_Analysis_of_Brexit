@@ -6,7 +6,7 @@ This repository contains the files related to a project with the goal of analyzi
 ### data
 This folder contains the various datasets used in the project. The external folder contains the following:
 
-- fetzer_study_data.dta: This file contains data from [this paper](https://ideas.repec.org/a/oup/ecpoli/v32y2017i92p601-650..html). This is the main dataset used for the analysis and modelling in this project. Each instance is a ward in the United Kingdom, and the features include demographic information such as age, income, and proportion of migrants in the population.
+- fetzer_study_data.dta: This file contains data from [this study](https://ideas.repec.org/a/oup/ecpoli/v32y2017i92p601-650..html). This is the main dataset used for the analysis and modelling in this project. Each instance is a ward in the United Kingdom, and the features include demographic information such as age, income, and proportion of migrants in the population.
 
 - postcodes.csv: This file contains geographic information on wards in the United Kingdom. This is only for the purpose of vizualization.
 
